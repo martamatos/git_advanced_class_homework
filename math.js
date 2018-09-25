@@ -17,3 +17,7 @@ const divideNumbers = function(a,b) {
 }
 
 console.log(divideNumbers(4,2))
+
+const multiplyNumbers = function(a,b) {
+  return a*b;
+};
