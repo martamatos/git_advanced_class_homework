@@ -12,3 +12,6 @@ console.log(addNumbers());
 
 console.log(subtractNumbers());
 
+const multiplyNumbers = function(a,b) {
+  return a*b;
+};
