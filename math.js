@@ -16,3 +16,6 @@ const divideNumbers = function(a, b) {
 };
 
 console.log(divideNumbers());
+
+// added with last update by Marta
+console.log("hello");
