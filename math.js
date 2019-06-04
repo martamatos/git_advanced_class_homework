@@ -14,3 +14,7 @@ console.log(subtractNumbers());
 
 console.log("hello");
 
+const divide = function(a,b){
+return a/b;
+}
+console.log(divide(4,2));
