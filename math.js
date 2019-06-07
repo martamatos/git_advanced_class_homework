@@ -14,3 +14,10 @@ console.log(subtractNumbers());
 
 console.log("hello");
 
+const dividNumbers = function (a, b) {
+  return a/b;
+};
+
+console.log(dividNumbers);
+
+
