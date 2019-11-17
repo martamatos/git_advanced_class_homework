@@ -8,9 +8,15 @@ const subtractNumbers = function(a,b) {
 };
 
 
+const divideNumbers = function(a,b) {
+  return a/b;
+};
+
 console.log(addNumbers());
 
 console.log(subtractNumbers());
+
+console.log(divideNumbers());
 
 console.log("hello");
 
